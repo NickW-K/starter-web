@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-Updating file
+Local Edit
+
 This repository is for showing how Git and GitHub work
 Adding
 
