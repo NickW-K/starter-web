@@ -14,6 +14,10 @@ Sample website with plenty of files for demos
 
 This is how to deploy the file
 
+Edit
+
+Edit 2
+
 ## How to Contribute
 
-Contribution
+Contributions are important
