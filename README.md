@@ -1,6 +1,9 @@
 # Starter Web Repo
 
+Local Edit
+
 This repository is for showing how Git and GitHub work
+Adding a new line
 
 ## Purpose
 
